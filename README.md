@@ -1,7 +1,7 @@
-# MTC-Token
+# MTC Token
 
 ## PL
-Projekt ekosystemu MicroTechCorpo rozwijany w skali globalnej. Repozytorium zawiera dokumentację, model biznesowy, strukturę technologiczną oraz materiały inwestorskie.
+Repozytorium głównego tokena ekosystemu MicroTechCorpo: utility token, staking, smart contracts i system nagród.
 
 ## EN
-Global MicroTechCorpo ecosystem project. This repository contains documentation, business model, technical structure and investment materials.
+Core token repository of the MicroTechCorpo ecosystem: utility token, staking, smart contracts and rewards system.
